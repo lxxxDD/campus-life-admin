@@ -104,26 +104,59 @@
 ## 🔭 技术全景 (Tech Panorama)
 
 ```mermaid
-mindmap
-  root((Admin System))
-    核心框架
-      Vue 3 (Setup)
-      Vite 5
-    UI系统
-      Element Plus
-      Tailwind CSS
-      Iconify
-    数据流
-      Pinia
-      Vue Router
-      Axios
-    可视化
-      ECharts 5
-      DataV
-    工程化
-      ESLint
-      Prettier
-      Husky
+graph TD
+    Root(("💻 Admin System"))
+    
+    Root --> Framework("⚛️ 核心框架")
+    Framework --> Vue("Vue 3 (Setup)")
+    Framework --> Vite("⚡ Vite 5")
+    
+    Root --> UI("💅 UI系统")
+    UI --> Element("🔵 Element Plus")
+    UI --> Tailwind("🌬️ Tailwind CSS")
+    UI --> Icon("🎭 Iconify")
+    
+    Root --> Data("🌊 数据流")
+    Data --> Pinia("🍍 Pinia")
+    Data --> Router("🛣️ Vue Router")
+    Data --> Axios("📡 Axios")
+    
+    Root --> Viz("📊 可视化")
+    Viz --> ECharts("📈 ECharts 5")
+    Viz --> DataV("📉 DataV")
+    
+    Root --> Eng("⚙️ 工程化")
+    Eng --> ESLint("🔍 ESLint")
+    Eng --> Prettier("✨ Prettier")
+    Eng --> Husky("🐶 Husky")
+
+    %% Neon Cyberpunk Palette
+    style Root fill:#000,stroke:#fff,stroke-width:4px,color:#fff
+    
+    style Framework fill:#000,stroke:#ff00ff,stroke-width:2px,color:#ff00ff
+    style Vue fill:#000,stroke:#ff00ff,stroke-width:1px,color:#fff
+    style Vite fill:#000,stroke:#ff00ff,stroke-width:1px,color:#fff
+    
+    style UI fill:#000,stroke:#00ffff,stroke-width:2px,color:#00ffff
+    style Element fill:#000,stroke:#00ffff,stroke-width:1px,color:#fff
+    style Tailwind fill:#000,stroke:#00ffff,stroke-width:1px,color:#fff
+    style Icon fill:#000,stroke:#00ffff,stroke-width:1px,color:#fff
+    
+    style Data fill:#000,stroke:#ffff00,stroke-width:2px,color:#ffff00
+    style Pinia fill:#000,stroke:#ffff00,stroke-width:1px,color:#fff
+    style Router fill:#000,stroke:#ffff00,stroke-width:1px,color:#fff
+    style Axios fill:#000,stroke:#ffff00,stroke-width:1px,color:#fff
+    
+    style Viz fill:#000,stroke:#00ff00,stroke-width:2px,color:#00ff00
+    style ECharts fill:#000,stroke:#00ff00,stroke-width:1px,color:#fff
+    style DataV fill:#000,stroke:#00ff00,stroke-width:1px,color:#fff
+    
+    style Eng fill:#000,stroke:#ff9900,stroke-width:2px,color:#ff9900
+    style ESLint fill:#000,stroke:#ff9900,stroke-width:1px,color:#fff
+    style Prettier fill:#000,stroke:#ff9900,stroke-width:1px,color:#fff
+    style Husky fill:#000,stroke:#ff9900,stroke-width:1px,color:#fff
+    
+    linkStyle default stroke:#666,stroke-width:1px
 ```
 
 ## 🧩 核心模块 (Modules)
