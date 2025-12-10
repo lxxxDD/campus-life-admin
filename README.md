@@ -1,28 +1,6 @@
 <div align="center">
 
-<!-- 访客统计 -->
-<img src="https://profile-counter.glitch.me/lxxxDD-campus-life-admin/count.svg" alt="Visitors" />
-
-<!-- 动态标题 -->
-<a href="https://github.com/lxxxDD/campus-life-admin">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=646cff&center=true&vCenter=true&width=600&lines=Campus+Life+Admin;Vue+3+x+Vite+5;Enterprise+Management+System" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- 部署状态 (模拟) -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-
-<br>
-<br>
+# 💻 Campus Life Admin
 
 <!-- 核心徽章 -->
 <p>
@@ -32,9 +10,22 @@
   <img src="https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss" />
 </p>
 
-<h3 align="center">🎛️ 掌控全局，运筹帷幄</h3>
+<!-- 仓库徽章 -->
+<p>
+  <a href="https://github.com/lxxxDD/campus-life-admin">
+    <img src="https://img.shields.io/github/repo-size/lxxxDD/campus-life-admin?style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/lxxxDD/campus-life-admin/stargazers">
+    <img src="https://img.shields.io/github/stars/lxxxDD/campus-life-admin?style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/lxxxDD/campus-life-admin/commits">
+    <img src="https://img.shields.io/github/last-commit/lxxxDD/campus-life-admin?style=flat-square&logo=github" />
+  </a>
+</p>
 
-<p align="center">
+<h3>🎛️ 掌控全局，运筹帷幄</h3>
+
+<p>
   <a href="#-界面预览">🖥️ 界面预览</a> •
   <a href="#-技术全景">🔭 技术全景</a> •
   <a href="#-核心模块">🧩 核心模块</a> •
