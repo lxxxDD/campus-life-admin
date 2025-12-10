@@ -28,6 +28,43 @@
   </a>
 </p>
 
+<!-- 星际传送门 -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://github.com/lxxxDD/campus-life-admin">
+          <img src="https://img.shields.io/badge/💻_管理后台-Current-409eff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <br>
+        <b>CampusLifeAdmin</b>
+        <br>
+        <sub>运筹帷幄的指挥中心</sub>
+      </td>
+      <td align="center" width="50">⚡</td>
+      <td align="center" width="200">
+        <a href="https://github.com/lxxxDD/campus-life-server">
+          <img src="https://img.shields.io/badge/🧠_后端核心-前往-8A2BE2?style=for-the-badge&logo=springboot&logoColor=white" />
+        </a>
+        <br>
+        <b>CampusLifeServer</b>
+        <br>
+        <sub>数据中枢 & 业务大脑</sub>
+      </td>
+      <td align="center" width="50">⚡</td>
+      <td align="center" width="200">
+        <a href="https://github.com/lxxxDD/campus-life-app">
+          <img src="https://img.shields.io/badge/📱_移动端-前往-42b883?style=for-the-badge&logo=android&logoColor=white" />
+        </a>
+        <br>
+        <b>CampusLifeApp</b>
+        <br>
+        <sub>触手可及的校园生活</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h3>🎛️ 掌控全局，运筹帷幄</h3>
 
 <p>
