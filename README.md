@@ -2,6 +2,11 @@
 
 # 💻 Campus Life Admin
 
+<!-- 动态打字机效果 -->
+<a href="https://github.com/lxxxDD/campus-life-admin">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&width=600&lines=Campus+Life+Admin;Vue+3+x+Vite+5;Enterprise+Management+System" alt="Typing SVG" />
+</a>
+
 <!-- 核心徽章 -->
 <p>
   <img src="https://img.shields.io/badge/Vue-3.x-42b883?style=for-the-badge&logo=vue.js" />
